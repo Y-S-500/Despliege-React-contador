@@ -10,7 +10,8 @@ const CACHE_ELEMENTS = [
     "https://unpkg.com/@babel/standalone/babel.min.js",
     "./componentes/Componentes.js",
     "./index.js",
-    "./register.js"
+    "./register.js",
+    "./estilos.css"
 ];
 
 const CACHE_NAME ="v3_cache_contador_react";
