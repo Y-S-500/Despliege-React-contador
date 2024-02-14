@@ -13,7 +13,7 @@ const CACHE_ELEMENTS = [
     "./register.js"
 ];
 
-const CACHE_NAME ="v2_cache_contador_react";
+const CACHE_NAME ="v3_cache_contador_react";
 
         // el primer evento del ser worker
 
